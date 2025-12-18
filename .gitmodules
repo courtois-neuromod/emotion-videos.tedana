@@ -3,3 +3,8 @@
 	url = /project/rrg-pbellec/ria-rorqual/alias/cneuromod.emotion-videos.fmriprep
 	datalad-id = 583d4762-704a-462b-a71e-9844982d3c9b
 	datalad-url = "ria+file:///project/rrg-pbellec/ria-rorqual#~cneuromod.emotion-videos.fmriprep"
+[submodule "containers"]
+	path = containers
+	url = https://gitlab.unf-montreal.ca/ni-dataops/bids-containers.git
+	datalad-id = b8a017e8-1b6f-4cfe-95ea-cdde7228e9c3
+	datalad-url = https://gitlab.unf-montreal.ca/ni-dataops/bids-containers.git
