@@ -1,0 +1,17 @@
+{
+    "elbow_f05": 18.512820512820497,
+    "fastica_convergence_warning_count": 0,
+    "kappa_allcomps_elbow": 55.164560246288325,
+    "kappa_elbow_kundu": 55.164560246288325,
+    "kappa_nonsig_elbow": 55.164560246288325,
+    "median_varex": 1.955131003144096,
+    "n_echos": 3,
+    "n_independent_echos": null,
+    "n_vols": 190,
+    "rho_allcomps_elbow": 24.188296855069066,
+    "rho_elbow_liberal": 24.188296855069066,
+    "rho_unclassified_elbow": 24.188296855069066,
+    "robustica_mean_index_quality": 0.9384143052834762,
+    "total_var_exp_rejected_components_on_accepted": NaN,
+    "varex_upper_p": 27.936440537907473
+}
