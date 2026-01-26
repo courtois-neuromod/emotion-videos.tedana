@@ -1,0 +1,30 @@
+{
+    "ICA accepted components img": "sub-03_ses-007_task-emotion_run-01_desc-ICAAccepted_components.nii.gz",
+    "ICA components img": "sub-03_ses-007_task-emotion_run-01_desc-ICA_components.nii.gz",
+    "ICA cross component metrics json": "sub-03_ses-007_task-emotion_run-01_desc-ICACrossComponent_metrics.json",
+    "ICA decision tree json": "sub-03_ses-007_task-emotion_run-01_desc-ICA_decision_tree.json",
+    "ICA decomposition json": "sub-03_ses-007_task-emotion_run-01_desc-ICA_decomposition.json",
+    "ICA metrics json": "sub-03_ses-007_task-emotion_run-01_desc-tedana_metrics.json",
+    "ICA metrics tsv": "sub-03_ses-007_task-emotion_run-01_desc-tedana_metrics.tsv",
+    "ICA mixing tsv": "sub-03_ses-007_task-emotion_run-01_desc-ICA_mixing.tsv",
+    "ICA status table tsv": "sub-03_ses-007_task-emotion_run-01_desc-ICA_status_table.tsv",
+    "PCA cross component metrics json": "sub-03_ses-007_task-emotion_run-01_desc-PCACrossComponent_metrics.json",
+    "PCA decomposition json": "sub-03_ses-007_task-emotion_run-01_desc-PCA_decomposition.json",
+    "PCA metrics json": "sub-03_ses-007_task-emotion_run-01_desc-PCA_metrics.json",
+    "PCA metrics tsv": "sub-03_ses-007_task-emotion_run-01_desc-PCA_metrics.tsv",
+    "PCA mixing tsv": "sub-03_ses-007_task-emotion_run-01_desc-PCA_mixing.tsv",
+    "adaptive mask img": "sub-03_ses-007_task-emotion_run-01_desc-adaptiveGoodSignal_mask.nii.gz",
+    "combined img": "sub-03_ses-007_task-emotion_run-01_desc-optcom_bold.nii.gz",
+    "denoised ts img": "sub-03_ses-007_task-emotion_run-01_desc-denoised_bold.nii.gz",
+    "input img": [
+        "../../../sourcedata/cneuromod.emotion-videos.fmriprep/sub-03/ses-007/func/sub-03_ses-007_task-emotion_run-01_echo-1_part-mag_desc-preproc_bold.nii.gz",
+        "../../../sourcedata/cneuromod.emotion-videos.fmriprep/sub-03/ses-007/func/sub-03_ses-007_task-emotion_run-01_echo-2_part-mag_desc-preproc_bold.nii.gz",
+        "../../../sourcedata/cneuromod.emotion-videos.fmriprep/sub-03/ses-007/func/sub-03_ses-007_task-emotion_run-01_echo-3_part-mag_desc-preproc_bold.nii.gz"
+    ],
+    "rmse img": "sub-03_ses-007_task-emotion_run-01_desc-rmse_statmap.nii.gz",
+    "s0 img": "sub-03_ses-007_task-emotion_run-01_S0map.nii.gz",
+    "t2star img": "sub-03_ses-007_task-emotion_run-01_T2starmap.nii.gz",
+    "z-scored ICA accepted components img": "sub-03_ses-007_task-emotion_run-01_desc-ICAAccepted_stat-z_components.nii.gz",
+    "z-scored ICA components img": "sub-03_ses-007_task-emotion_run-01_desc-ICA_stat-z_components.nii.gz",
+    "z-scored PCA components img": "sub-03_ses-007_task-emotion_run-01_desc-PCA_stat-z_components.nii.gz"
+}
