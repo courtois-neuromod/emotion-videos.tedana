@@ -1,8 +1,8 @@
 [submodule "sourcedata/cneuromod.emotion-videos.fmriprep"]
 	path = sourcedata/cneuromod.emotion-videos.fmriprep
-	url = /project/rrg-pbellec/ria-rorqual/alias/cneuromod.emotion-videos.fmriprep
+	url = https://github.com/courtois-neuromod/emotion-videos.fmriprep
 	datalad-id = 583d4762-704a-462b-a71e-9844982d3c9b
-	datalad-url = "ria+file:///project/rrg-pbellec/ria-rorqual#~cneuromod.emotion-videos.fmriprep"
+	datalad-url = https://github.com/courtois-neuromod/emotion-videos.fmriprep
 [submodule "containers"]
 	path = containers
 	url = https://gitlab.unf-montreal.ca/ni-dataops/bids-containers.git
